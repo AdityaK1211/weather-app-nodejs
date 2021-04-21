@@ -51,7 +51,7 @@ weatherForm.addEventListener('submit', (e) => {
                 } 
                 else if (tempStatus == "Haze") {
                     weatherCondition.innerHTML =
-                    "<i class='fas fa-cloud-sun' style='color: #a4b0be;'></i>";
+                    "<i class='fas fa-cloud-sun' style='color: #FF7F50;'></i>";
                 } 
                 else {
                     weatherCondition.innerHTML =
